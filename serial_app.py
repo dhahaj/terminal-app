@@ -23,7 +23,7 @@ class SerialTerminalApp(ctk.CTk):
         self.font_ui = ("Roboto Medium", 14)
 
         # Window Setup
-        self.title("Modern Serial Terminal")
+        self.title("Serial Terminal")
         self.geometry("950x600")
         
         # Handle the "X" button click to save settings before closing
