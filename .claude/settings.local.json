@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"D:\\\\terminal-app\" show --stat 8f72597)"
+    ]
+  }
+}
