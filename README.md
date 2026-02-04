@@ -14,6 +14,8 @@ A modern GUI-based serial port communication tool for interacting with microcont
 
 ## Screenshot
 
+![Serial Terminal Screenshot](images/screenshot.png)
+
 The application features a dark-themed interface with:
 - Port and baud rate selection dropdowns
 - Connect/Disconnect toggle button
@@ -31,7 +33,7 @@ The application features a dark-themed interface with:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dhahaj/terminal-app.git
    cd terminal-app
    ```
 
