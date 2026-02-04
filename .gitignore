@@ -1,2 +1,5 @@
 serial_settings.json
 .claude/
+dist/
+build/
+serial_app.spec
