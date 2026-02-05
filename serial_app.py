@@ -19,8 +19,8 @@ class SerialTerminalApp(ctk.CTk):
         super().__init__()
 
         # --- Font Configurations ---
-        self.font_terminal = ("Consolas", 16)
-        self.font_ui = ("Roboto Medium", 14)
+        self.font_terminal = ("Consolas", 18)
+        self.font_ui = ("Roboto Medium", 16)
 
         # Window Setup
         self.title("Serial Terminal")
